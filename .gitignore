@@ -40,7 +40,7 @@ RemoteSystemsTempFiles
 .metadata
 .recommenders
 Annotation
-jdbc
+AlgoritmProg
 AutoRefresh
 Cookies
 Counter
@@ -53,6 +53,8 @@ Debugg
 Debbuging
 SampleProject
 Redirect
-OopsProgram
-AlgoritmProg
+BankApp
+jdbc
+Functional Programs
+ReservationPage
 DataStructureProg
